@@ -8,7 +8,7 @@ This python module provides support for creating and processing trees with infor
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/....)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-infodatatree)
 * [pypi.python.org](https://pypi.python.org/pypi/jk_infodatatree)
 
 Why this module?
